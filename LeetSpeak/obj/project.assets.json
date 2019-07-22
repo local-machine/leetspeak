@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/ProjectName.Solution/ProjectName/ProjectName.csproj",
-      "projectName": "ProjectName",
-      "projectPath": "/Users/Guest/Desktop/ProjectName.Solution/ProjectName/ProjectName.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/Leetspeak/LeetSpeak/LeetSpeak.csproj",
+      "projectName": "LeetSpeak",
+      "projectPath": "/Users/Guest/Desktop/Leetspeak/LeetSpeak/LeetSpeak.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/ProjectName.Solution/ProjectName/obj/",
+      "outputPath": "/Users/Guest/Desktop/Leetspeak/LeetSpeak/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
